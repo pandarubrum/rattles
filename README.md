@@ -100,9 +100,11 @@ Example showcasing all presets, built with [ratatui](https://ratatui.rs/):
 cargo run --example showcase
 ```
 
-There's also a minimal no_std-oriented usage example found [here](./examples/no_std.rs) with all usage patterns.
+There's also a minimal no_std-oriented usage example found [here](./examples/no_std.rs).
 
 ## Acknowledgements
+
+Rattles includes spinners sourced from these wonderful projects. We gratefully acknowledge their work.
 
 - [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners)
 - [gunnargray-dev/unicode-animations](https://github.com/gunnargray-dev/unicode-animations)
