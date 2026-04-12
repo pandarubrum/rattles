@@ -92,13 +92,8 @@ A prelude is available `rattles::presets::prelude`.
 
 ## Examples
 
-Example showcasing all presets, built with [ratatui](https://ratatui.rs/):
-
-```bash
-cargo run --example showcase
-```
-
-There's also a minimal no_std-oriented usage example found [here](./examples/no_std.rs).
+- a minimal ratatui [example](./examples/ratatui.rs)
+- a no_std-oriented [example](./examples/no_std.rs)
 
 ## Acknowledgements
 
