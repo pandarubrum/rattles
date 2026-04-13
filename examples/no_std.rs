@@ -40,7 +40,7 @@ fn using_user_clock() {
 
     for _ in 0..8 {
         let elapsed = clock.elapsed();
-        let __frame = rattle.frame_at(elapsed);
+        let _frame = rattle.frame_at(elapsed);
 
         // do something with frame
 
